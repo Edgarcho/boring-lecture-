@@ -1,4 +1,9 @@
-
+.yellow-background{
+  background-color: yellow;
+  border: 3px solid green;
+  padding: 5px;
+  margin: 10px;
+}
 img.intro {
   margin: auto;
   display: block;
